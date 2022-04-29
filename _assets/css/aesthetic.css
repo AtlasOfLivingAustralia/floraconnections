@@ -1,0 +1,114 @@
+/* This stylesheet handles the aesthetic considerations of block-level parts
+   of the website, including colours, whitespace around elements, hover/active
+   styles, and so on. The overall structure of the page's sections is handled
+   by structure.css.*/
+
+/* Styling structural components */
+
+body {
+    font-family: 'Raleway', 'Work Sans', sans-serif;
+    font-size: 1.25em;
+    font-weight: 300;
+    color: black;
+}
+
+
+.columns {
+}
+
+.flex_half {
+    margin-bottom: 2em;
+}
+
+/* Typesetting */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', 'Work Sans', sans-serif;
+    font-weight: 500;
+    letter-spacing: -1px;
+    color: #224E44;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+    margin-top: 2em;
+}
+
+.flex_half h1, .flex_half h2, .flex_half h3, .flex_half h4, .flex_half h5, .flex_half h6 {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.align_left {
+    text-align: left !important;
+}
+
+section a {
+    text-decoration: underline;
+}
+
+section a:hover {
+    text-decoration: none;
+}
+
+section a:visited {
+    
+}
+
+strong {
+    font-weight: 600;
+    color: #444;
+}
+
+.link_as_box {
+    border: 1px solid #919191;
+    border-radius: 2em;
+    padding: 0.75em;
+    margin: 0.25em;
+    background-color: white;
+    text-decoration: none;
+    font-weight: 400;
+    color: black;
+}
+
+.link_as_box:hover {
+    text-decoration: none;
+    background-color: #DBEEE2;
+}
+
+.link_as_box:visited {
+    color: black;
+}
+
+.link_as_button {
+    display: block;
+    padding: 1em;
+    width: 80%;
+    margin: 2em auto;
+    text-align: center;
+    background-color: #F0F8F8;
+    border: 1px solid #ACCEBC;
+    border-radius: 1em;
+        
+}
+
+.link_as_button:hover {
+}
+
+.link_as_button:visited {
+}
+
+footer {
+    font-size: 0.75em !important;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: 1.5em;
+    font-size: 110%;
+    color: black;
+}
+

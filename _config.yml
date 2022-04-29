@@ -1,0 +1,9 @@
+baseurl: "/"
+url: "http://www.floraconnections.com"
+
+title: "Flora Connections"
+author: "Flora Connections Team"
+description: "Let's connect community plant knowledge to government policy, together. We provide a standardised survey that can be used to assess any plant species according to IUCN Red List criteria. This means that your observations are directly usable by scientists and are capturing as much useful information as possible."
+image: "http://www.floraconnections.com/_assets/img/layout/favicon.png"
+
+keep_files: ["_assets"]
