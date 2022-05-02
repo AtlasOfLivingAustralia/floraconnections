@@ -1,0 +1,64 @@
+/* This stylesheet controls the appearance of the elements for the
+   MixItUp plugin that is used to present an interactive priority
+   species list. The plugin: https://www.kunkalabs.com/mixitup/ */
+
+
+/* Controls
+---------------------------------------------------------------------- */
+.controls {
+    margin: 0em auto;
+    width: 90%;
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.control {
+    padding: 1rem;
+    font-weight: bold;
+    background-color: #F0F8F8;
+}
+
+.control.mixitup-control-active {
+    background-color: #ACCEBC;
+}
+
+/* Cards
+---------------------------------------------------------------------- */
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: space-between;
+    align-items: flex-start;
+}
+
+/* Images and other card content
+---------------------------------------------------------------------- */
+
+.card, .gap {
+    text-align: center;
+    width: 400px;
+    margin: 0.5rem 0.5rem;
+    padding: 0.5rem;
+}
+
+.card {
+    border: 2px #DBEEE2 solid;
+}
+
+.card .name {
+    font-size: 125%;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.card img {
+    margin-top: 0.5em;
+}
+
+
+.attrib {
+    font-size: 60%;
+    text-align: left;
+}
