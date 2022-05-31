@@ -29,7 +29,66 @@ You will be asked to sign in with your _Atlas of Living Australia_ account. If y
 
 </div></div>
 
+<div markdown="block">
+## Or contribute quickly through iNaturalist
 
+If you can't do the full survey, you can add a quick two-question observation through the iNaturalist app on iPhone or Android instead.
 
+### **Step 1.** Install iNaturalist on your phone, and create an account with it or sign into your existing one.
 
+<div class="columns">
+    <div class="flex_half" style="text-align: center;">
+        <img src="_assets/img/submit/inat_ios.png">
+        <br>
+        <strong>Inaturalist on iOS</strong>
+    </div>
+    <div class="flex_half" style="text-align: center;">
+        <img src="_assets/img/submit/inat_android.png">
+        <br>
+        <strong>Inaturalist on Android</strong>
+    </div>
+</div>
 
+### **Step 2.** Join the [_Flora Connections_ project](https://inaturalist.ala.org.au/projects/flora-connections).
+
+<div class="columns">
+    <div class="flex_half" style="text-align: center;">
+        <img src="_assets/img/submit/join_proj1.jpg">
+        <br>
+        Search for 'Flora Connections'.
+    </div>
+    <div class="flex_half" style="text-align: center;">
+        <img src="_assets/img/submit/join_proj2.jpg">
+        <br>
+        Select the project and choose <Strong>Join</strong> at the top of the page.
+    </div>
+</div>
+
+### **Step 3.** Take a photo of a plant you want to submit.
+
+<div class="columns">
+    <div class="flex_half" style="text-align: center;">
+        <img src="_assets/img/submit/add_obs1.jpg">
+        <br>
+        You can take a photo in the field, or choose an existing photo in your album.
+    </div>
+    <div class="flex_half" style="text-align: center;">
+        <img src="_assets/img/submit/add_obs2.jpg">
+        <br>
+        Open 'Projects' to answer Flora Connections' required fields.
+    </div>
+</div>
+
+### **Step 4.** Answer our questions and _Share_ the observation!
+
+We want to know **how many individuals** you're seeing at the site, and **what disturbances have been happening, or will occur in the future**. Disturbances include disease, herbivory, human impacts, feral animals, erosion, weeds, flood, drought, and fire.
+
+<div class="columns">
+    <div class="flex_half" style="text-align: center;">
+        <img src="_assets/img/submit/add_obs3.jpg">
+        <br>
+        Answer the questions, go <strong>back</strong>, and choose <strong>Share</strong>.
+    </div>
+</div>
+
+</div>
